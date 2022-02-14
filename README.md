@@ -10,6 +10,10 @@ React官方井字棋小游戏，在官方示例基础上继续完成了以下功
 
 ### 启动
 ```js
+npm install
+```
+
+```js
  yarn start
 ```
 访问地址：localhost:3000
