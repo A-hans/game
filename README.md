@@ -8,6 +8,7 @@ React官方井字棋小游戏，在官方示例基础上继续完成了以下功
 - [x] 每当有人获胜时，高亮显示连成一线的 3 颗棋子。
 - [x] 当无人获胜时，显示一个平局的消息。
 
+文档地址：[井字棋](https://react.docschina.org/tutorial/tutorial.html)
 ### 启动
 ```js
 npm install
